@@ -1,4 +1,4 @@
-#Pothole Detection using YOLOv8
+# Pothole Detection using YOLOv8
 
 This project demonstrates a custom-trained **YOLOv8** object detection model for identifying potholes in road images.
 
