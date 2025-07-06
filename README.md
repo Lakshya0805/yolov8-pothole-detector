@@ -31,7 +31,7 @@ This project demonstrates a custom-trained **YOLOv8** object detection model for
 ![Input](test_input_1.jpg)
 
 **YOLOv8 Prediction**  
-![Output](test_output_1.jpg)
+![Output](test_output_1.png)
 
 ---
 
