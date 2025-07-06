@@ -41,6 +41,7 @@ This project demonstrates a custom-trained **YOLOv8** object detection model for
    ```bash
    pip install ultralytics
 2. Run inference:
+   ```bash
    from ultralytics import YOLO
    model = YOLO("best.pt")
    model.predict("your_test_image.jpg", save=True)
